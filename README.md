@@ -64,9 +64,8 @@
 ## 安装与使用
 
 ```sh
-# 克隆到你的个人 skills 目录（Claude Code/Codex/Qoder 等）
-git clone https://github.com/Deepseain/ai-agents-in-depth.git ~/.claude/skills/ai-agents-in-depth
-# Qoder 用户: git clone https://github.com/Deepseain/ai-agents-in-depth.git ~/.qoder-cn/skills/ai-agents-in-depth
+# 克隆到你的个人 skills 目录（Claude Code/Codex/Hermes Agent 等）
+git clone https://github.com/Deepseain/ai-agents-in-depth.git
 # 或复制 SKILL.md + references/ 两个部分即可
 ```
 
