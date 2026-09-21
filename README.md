@@ -92,11 +92,7 @@ ai-agents-in-depth/
     └── glossary.md                 # 30 个术语（按作者用法）
 ```
 
-## 本 skill 的生产方式
+## 致谢
 
-本 skill 由 [cangjie-skill](https://github.com/Deepseain/cangjie-skill)（拆书蒸馏流水线，RIA-TV++ 方法论）从原书两份 MinerU 转换的 Markdown 全文蒸馏而成，全过程六阶段：整书理解 → 并行提取 → 三重验证 → 能力卡撰写（RIA 六段）→ 压力测试 → 确定性编译。蒸馏审计链（候选池、验证记录、覆盖审计、测试报告）完整保留在仓库 `books/ai-agents-in-depth/` 下，可逐条复核。
-
-## 致谢与版权
-
-- 原书：《深入理解 AI Agent》，李博杰著，v2.0，2026-09 开源。本 skill 为该书的衍生物，引用与传播请遵循原书的开源许可条款，并注明原作者。
+- 原书：《深入理解 AI Agent》，李博杰著，v2.0，2026-09 开源。
 - 本 skill 的整理与蒸馏工作由 AI（cangjie-skill 流水线）完成，人工复核了关键验证节点。
